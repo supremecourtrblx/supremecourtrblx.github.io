@@ -13,10 +13,10 @@ The opinions collected here are those issued during October Term 2024 (October 1
         <th style="width:10%;">J.</th>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>1/18/25</td>
+        <td>24-1</td>
+        <td><a href="/opinions/24-1 jtistheman4 v. United States.pdf">jtistheman4 v. United States</a></td>
+        <td>PC</td>
     </tr>
 </table>
 
