@@ -10,6 +10,10 @@ The vast majority of cases filed in the Supreme Court are disposed of summarily 
         <th>PDF</th>
     </tr>
     <tr>
+        <td>03/16/2025</td>
+        <td><a href="/orders/miscellaneousorder031625.pdf">Miscellaneous Order</a></td>
+    </tr>
+    <tr>
         <td>03/14/2025</td>
         <td><a href="/orders/orderlist031425.pdf">Order list</a></td>
     </tr>
