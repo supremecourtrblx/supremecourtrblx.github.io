@@ -13,6 +13,12 @@ Opinions may be written by Justices to comment on the summary disposition of cas
         <th style="width:10%;">J.</th>
     </tr>
     <tr>
+        <td>3/18/2025</td>
+        <td>25-2</td>
+        <td><a href="opinions/cjorderopinion 25-2.pdf">jtistheman4 v. United States</a></td>
+        <td>I</td>
+    </tr>
+    <tr>
         <td>3/14/2025</td>
         <td>25-1</td>
         <td><a href="opinions/25-1 jtistheman4 v. United States orderopinion.pdf">jtistheman4 v. United States</a></td>
