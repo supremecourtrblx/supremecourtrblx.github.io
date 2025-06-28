@@ -15,7 +15,7 @@ Opinions may be written by Justices to comment on the summary disposition of cas
     <tr>
         <td>6/27/2025</td>
         <td>25A1</td>
-        <td><a href="opinions/25A1 in chambers.pdf">In Re CharlesKanekoa</a></td>
+        <td><a href="opinions/25A1 in chambers.pdf">In re CharlesKanekoa</a></td>
         <td>I</td>
     </tr>
     <tr>
