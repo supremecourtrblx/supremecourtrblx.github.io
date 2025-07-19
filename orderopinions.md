@@ -13,6 +13,12 @@ Opinions may be written by Justices to comment on the summary disposition of cas
         <th style="width:10%;">J.</th>
     </tr>
     <tr>
+        <td>7/19/2025</td>
+        <td>25-5</td>
+        <td><a href="opinions/cjorderopinion 25-5.pdf">Ex parte CharlesKanekoa</a></td>
+        <td>I</td>
+    </tr>
+    <tr>
         <td>6/27/2025</td>
         <td>25A1</td>
         <td><a href="opinions/25A1 in chambers.pdf">In re CharlesKanekoa</a></td>
