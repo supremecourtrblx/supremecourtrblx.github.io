@@ -13,7 +13,7 @@ The opinions collected here are those issued during October Term 2024 (October 1
         <th style="width:10%;">J.</th>
     </tr>
         <tr>
-        <td>11/4/25</td>
+        <td>12/20/25</td>
         <td>25-6</td>
         <td><a href="/opinions/25-9 opinion.pdf">In re Hastert Clause</a></td>
         <td>F</td>
