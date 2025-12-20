@@ -15,6 +15,13 @@ The opinions collected here are those issued during October Term 2024 (October 1
         <tr>
         <td>11/4/25</td>
         <td>25-6</td>
+        <td><a href="/opinions/25-9 opinion.pdf">In re Hastert Clause</a></td>
+        <td>F</td>
+    </tr>
+    </tr>
+        <tr>
+        <td>11/4/25</td>
+        <td>25-6</td>
         <td><a href="/opinions/25-6 courtopinion.pdf">In re Forfeiture of Congressional Seats</a></td>
         <td>F</td>
     </tr>
