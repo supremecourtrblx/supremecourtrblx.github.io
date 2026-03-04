@@ -11,7 +11,7 @@ The vast majority of cases filed in the Supreme Court are disposed of summarily 
     </tr>
     <tr>
         <td>03/04/2026</td>
-        <td><a href="/orders/miscellaneousorder03042026.pdf.pdf">Miscellaneous Order</a></td>
+        <td><a href="/orders/miscellaneousorder03042026.pdf">Miscellaneous Order</a></td>
     </tr>
     <tr>
         <td>02/14/2026</td>
