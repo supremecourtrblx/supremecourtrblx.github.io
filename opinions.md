@@ -12,7 +12,13 @@ The opinions collected here are those issued during October Term 2024 (October 1
         <th>Name</th>
         <th style="width:10%;">J.</th>
     </tr>
-        <tr>
+    <tr>
+        <td>3/4/26</td>
+        <td>D-2</td>
+        <td><a href="/opinions/d-2 opinion.pdf">In re BellaRevelation</a></td>
+        <td>PC</td>
+    </tr>
+    <tr>
         <td>12/20/25</td>
         <td>25-6</td>
         <td><a href="/opinions/25-9 opinion.pdf">In re Hastert Clause</a></td>
