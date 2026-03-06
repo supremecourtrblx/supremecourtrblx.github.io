@@ -13,6 +13,12 @@ The opinions collected here are those issued during October Term 2024 (October 1
         <th style="width:10%;">J.</th>
     </tr>
     <tr>
+        <td>3/6/26</td>
+        <td>25-10</td>
+        <td><a href="/opinions/25-10.pdf.pdf">Gabriel3324600 v. United States</a></td>
+        <td>S</td>
+    </tr>
+    <tr>
         <td>3/4/26</td>
         <td>D-2</td>
         <td><a href="/opinions/d-2 opinion.pdf">In re BellaRevelation</a></td>
