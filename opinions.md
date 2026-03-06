@@ -15,7 +15,7 @@ The opinions collected here are those issued during October Term 2024 (October 1
     <tr>
         <td>3/6/26</td>
         <td>25-10</td>
-        <td><a href="/opinions/25-10.pdf.pdf">Gabriel3324600 v. United States</a></td>
+        <td><a href="/opinions/25-10.pdf">Gabriel3324600 v. United States</a></td>
         <td>S</td>
     </tr>
     <tr>
