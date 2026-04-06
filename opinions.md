@@ -16,7 +16,7 @@ The opinions collected here are those issued during October Term 2024 (October 1
         <td>4/5/26</td>
         <td>25-10</td>
         <td><a href="/opinions/26-2 opinion.pdf">0dure v. Federal Election Commission</a></td>
-        <td>S</td>
+        <td>PC</td>
     </tr>
     <tr>
         <td>3/6/26</td>
@@ -36,8 +36,7 @@ The opinions collected here are those issued during October Term 2024 (October 1
         <td><a href="/opinions/25-9 opinion.pdf">In re Hastert Clause</a></td>
         <td>F</td>
     </tr>
-    </tr>
-        <tr>
+    <tr>
         <td>11/4/25</td>
         <td>25-6</td>
         <td><a href="/opinions/25-6 courtopinion.pdf">In re Forfeiture of Congressional Seats</a></td>
