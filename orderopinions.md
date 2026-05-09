@@ -13,6 +13,12 @@ Opinions may be written by Justices to comment on the summary disposition of cas
         <th style="width:10%;">J.</th>
     </tr>
     <tr>
+        <td>5/8/2026</td>
+        <td>26A2</td>
+        <td><a href="opinions/26A2.pdf">dannybec v. wrightsonphobia</a></td>
+        <td>F</td>
+    </tr>
+    <tr>
         <td>7/19/2025</td>
         <td>25-5</td>
         <td><a href="opinions/cjorderopinion 25-5.pdf">Ex parte CharlesKanekoa</a></td>
