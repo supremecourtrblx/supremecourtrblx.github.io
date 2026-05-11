@@ -16,7 +16,7 @@ Opinions may be written by Justices to comment on the summary disposition of cas
         <td>5/11/2026</td>
         <td>26-6</td>
         <td><a href="opinions/26-6 inslee.pdf">dannybec v. iCoyxte</a></td>
-        <td>F</td>
+        <td>I</td>
     </tr>
     <tr>
         <td>5/11/2026</td>
