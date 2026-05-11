@@ -13,6 +13,18 @@ Opinions may be written by Justices to comment on the summary disposition of cas
         <th style="width:10%;">J.</th>
     </tr>
     <tr>
+        <td>5/11/2026</td>
+        <td>26-6</td>
+        <td><a href="opinions/26-6 inslee.pdf">dannybec v. iCoyxte</a></td>
+        <td>F</td>
+    </tr>
+    <tr>
+        <td>5/11/2026</td>
+        <td>26A3</td>
+        <td><a href="opinions/26A3.pdf">dannybec v. wrightsonphobia</a></td>
+        <td>F</td>
+    </tr>
+    <tr>
         <td>5/8/2026</td>
         <td>26A2</td>
         <td><a href="opinions/26A2.pdf">dannybec v. wrightsonphobia</a></td>
