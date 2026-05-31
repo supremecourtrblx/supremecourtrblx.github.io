@@ -13,6 +13,12 @@ Opinions may be written by Justices to comment on the summary disposition of cas
         <th style="width:10%;">J.</th>
     </tr>
     <tr>
+        <td>5/31/2026</td>
+        <td>26-8</td>
+        <td><a href="opinions/26-8.pdf">BellaRevelation v. roleplayersixrp6</a></td>
+        <td>I</td>
+    </tr>
+    <tr>
         <td>5/11/2026</td>
         <td>26-6</td>
         <td><a href="opinions/26-6 inslee.pdf">dannybec v. iCoyxte</a></td>
