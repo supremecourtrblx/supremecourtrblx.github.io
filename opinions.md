@@ -13,6 +13,12 @@ The opinions collected here are those issued during October Term 2024 (October 1
         <th style="width:10%;">J.</th>
     </tr>
     <tr>
+        <td>6/30/26</td>
+        <td>26-7</td>
+        <td><a href="/opinions/26-7 courtopinion.pdf">BellaRevelation v. calIlahan</a></td>
+        <td>S</td>
+    </tr>
+    <tr>
         <td>4/5/26</td>
         <td>25-10</td>
         <td><a href="/opinions/26-2 opinion.pdf">0dure v. Federal Election Commission</a></td>
