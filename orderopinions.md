@@ -16,7 +16,7 @@ Opinions may be written by Justices to comment on the summary disposition of cas
         <td>7/12/2026</td>
         <td>26-12</td>
         <td><a href="orders/orderlist071226.pdf">BellaRevelation v. calIlahan</a></td>
-        <td>I</td>
+        <td>S</td>
     </tr>
     <tr>
         <td>5/31/2026</td>
