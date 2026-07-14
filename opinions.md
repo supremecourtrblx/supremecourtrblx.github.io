@@ -13,6 +13,12 @@ The opinions collected here are those issued during October Term 2024 (October 1
         <th style="width:10%;">J.</th>
     </tr>
     <tr>
+        <td>7/14/26</td>
+        <td>26-9</td>
+        <td><a href="/opinions/26-9 courtopinion.pdf">BellaRevelation v. roleplayersixrp6</a></td>
+        <td>S</td>
+    </tr>
+    <tr>
         <td>6/30/26</td>
         <td>26-7</td>
         <td><a href="/opinions/26-7 courtopinion.pdf">BellaRevelation v. calIlahan</a></td>
