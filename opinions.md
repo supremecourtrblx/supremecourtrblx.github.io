@@ -13,6 +13,12 @@ The opinions collected here are those issued during October Term 2024 (October 1
         <th style="width:10%;">J.</th>
     </tr>
     <tr>
+        <td>9/14/26</td>
+        <td>26-5</td>
+        <td><a href="/opinions/26-5 opinion.pdf">weirdfancookie v. United States</a></td>
+        <td>I</td>
+    </tr>    
+    <tr>
         <td>7/14/26</td>
         <td>26-9</td>
         <td><a href="/opinions/26-9 courtopinion.pdf">BellaRevelation v. roleplayersixrp6</a></td>
